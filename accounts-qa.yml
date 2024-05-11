@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to Eazybank accounts related QA APIs"
   contactDetails:
     name: "QA-Developer"
-    email: "QA@example.com"
+    email: "{cipher}155ca758062a2ee7138615159bb316aa64a54593cc8b61d5c95f7693fbaf897932a422a482b02fa86769288fe0e49399"
   onCallSupport:
       - (555)555-1234
       - (555)555-1234
