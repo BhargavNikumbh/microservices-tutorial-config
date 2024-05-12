@@ -6,7 +6,7 @@ spring:
 build:
   version : "2.0"
 cards:
-  message: "Welcome to Eazybank CARDS related QA APIs"
+  message: "Welcome to Eazybank CARDS related Quality Assurance APIs"
   contactDetails:
     name: "QA-CARDSDeveloper"
     email: "QA-CARDS@example.com"
