@@ -2,7 +2,7 @@
 build:
   version : "3.0"
 cards:
-  message: "Welcome to Eazybank Cards related dev APIs"
+  message: "Welcome to Eazybank Cards related development APIs"
   contactDetails:
     name: "dev-Developer"
     email: "dev@example.com"
