@@ -2,7 +2,7 @@
 build:
   version : "2.0"
 accounts:
-  message: "Welcome to Eazybank accounts related QA APIs"
+  message: "Welcome to Eazybank accounts related Quality Assurance APIs"
   contactDetails:
     name: "QA-Developer"
     email: "{cipher}155ca758062a2ee7138615159bb316aa64a54593cc8b61d5c95f7693fbaf897932a422a482b02fa86769288fe0e49399"
